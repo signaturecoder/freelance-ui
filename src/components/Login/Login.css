@@ -1,0 +1,81 @@
+.login {
+  background-color: rgba(30, 63, 113, 0.3);
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login__wrapper {
+  border-radius: 16px;
+  display: flex;
+  background-color: #ffffff;
+  opacity: 1;
+  box-shadow: 8px 8px 0px #0000001a;
+}
+
+.text__align {
+  margin: 0.5rem;
+  align-self: flex-start;
+}
+
+.login__wrapper--left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
+  padding: 1rem;
+}
+
+.sign-up__link {
+  color: #1d3e70;
+  text-decoration: underline;
+}
+
+.login__wrapper--right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+}
+
+.login__image {
+  width: 22vw;
+}
+
+.icon__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login__icon {
+  border-radius: 50%;
+  width: 1.5rem;
+  padding: 0.5rem;
+  margin: 0.5rem;
+  border: 2px solid #3e3e3e;
+}
+
+/* .login__icon:nth-child(3) {
+  padding: 0rem;
+  margin: 0.5rem;
+  width: 1.5rem;
+} */
+.login__btn {
+  background-color: #1e3f71 !important;
+  color: #fcfcfc !important;
+  width: 90% !important;
+}
+
+.login__close--btn {
+  width: 2rem;
+ padding: 1rem;
+ align-self: flex-start;
+}
+
+.login__checkbox {
+  align-self: flex-start!important;
+  padding-left: 3.2rem!important;
+}

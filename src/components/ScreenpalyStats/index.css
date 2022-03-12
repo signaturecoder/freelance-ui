@@ -1,0 +1,60 @@
+.screenpaly_cards {
+  background: transparent
+    linear-gradient(120deg, var(--unnamed-color-02183a) 0%, #1e3f71 100%) 0% 0%
+    no-repeat padding-box;
+  background: transparent linear-gradient(120deg, #02183a 0%, #1e3f71 100%) 0%
+    0% no-repeat padding-box;
+  box-shadow: 6px 8px 8px #003a8933;
+  border-radius: 14px;
+  opacity: 1;
+  padding: 10%;
+}
+.values_size {
+  font-size: 40px !important;
+  font-weight: bold;
+  color: white;
+}
+.content_title {
+  color: var(--unnamed-color-ffffff);
+  text-align: left;
+  font: normal normal normal 16px/17px Epilogue;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.Success_Percentage {
+  background: transparent
+    linear-gradient(104deg, var(--unnamed-color-02183a) 0%, #1e3f71 100%) 0% 0%
+    no-repeat padding-box;
+  background: transparent linear-gradient(104deg, #02183a 0%, #1e3f71 100%) 0%
+    0% no-repeat padding-box;
+  box-shadow: 6px 8px 8px #003a8933;
+  border-radius: 14px;
+  opacity: 1;
+}
+.suggestion {
+  color: var(--unnamed-color-ffffff);
+  text-align: left;
+  font: normal normal bold 18px/35px Epilogue;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.basic_titles {
+  color: var(--unnamed-color-ffffff);
+  text-align: left;
+  font: normal normal normal 16px/20px Epilogue;
+  letter-spacing: 0px;
+  color: #ffffff;
+  text-transform: capitalize;
+  opacity: 1;
+}
+.progress_value {
+  position: absolute;
+  color: var(--unnamed-color-ffffff);
+  text-align: center;
+  letter-spacing: NaNpx;
+  color: #ffffff;
+  opacity: 1;
+  margin-right: 3%;
+}

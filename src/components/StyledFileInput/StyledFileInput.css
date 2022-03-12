@@ -1,0 +1,52 @@
+.file {
+  opacity: 0;
+  width: 0.1px;
+  height: 0.1px;
+  position: absolute;
+}
+
+.file-input label {
+  position: relative;
+  text-transform: uppercase;
+  width: 200px;
+  height: 45px;
+  background: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: transform 0.2s ease-out;
+} 
+
+.primary {
+  border: 1px solid #fff;
+  color: #fff;
+}
+
+.secondary {
+  border: 1px solid #02183A;
+  color: #02183A;
+}
+
+.file-name p{
+  position: absolute;
+  bottom: 0px;
+  left: 220px;
+  font-size: 0.85rem;
+  font-weight: 700;
+ 
+}
+
+.file-name-primary {
+  color: #fff;
+  top: -35px;
+  left: 0px;
+  position: absolute;
+}
+
+.file-name-secondary {
+  position: absolute;
+  top: -35px;
+  left: 0px;
+  color: #02183A;
+}

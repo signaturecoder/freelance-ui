@@ -1,0 +1,26 @@
+.side_bar_text {
+  word-break: break-all;
+  width: 100px;
+}
+.actve_color {
+  background: var(--unnamed-color-1b3b6b) 0% 0% no-repeat padding-box !important;
+  background: #1b3b6b 0% 0% no-repeat padding-box !important;
+  opacity: 1;
+  color: #ffffff !important;
+}
+.remove_extar_padding {
+  padding-top: 0px !important;
+}
+.all_Icons {
+  color: var(--unnamed-color-ffffff);
+  text-align: left;
+  font: normal normal normal 18px/18px Epilogue;
+  letter-spacing: 0px;
+  color: #ffffff;
+  text-transform: capitalize;
+  opacity: 1;
+}
+.not_active {
+  background: var(--unnamed-color-1b3b6b) 0% 0% no-repeat padding-box !important;
+  color:black;
+}

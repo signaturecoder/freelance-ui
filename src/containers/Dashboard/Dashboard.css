@@ -1,0 +1,56 @@
+.dashboard__logo {
+  font-weight: 800;
+  font-size: 1.5rem;
+  font-family: "Epilogue", Bold;
+  color: var(--color-background);
+}
+
+.drawer__content__container {
+  background-image: url("/src/images/dashboard_bg_143.svg");
+  background-position: 50% 13%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.dashboard__header {
+  display: flex;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 100%;
+}
+
+.header__profile {
+  padding-right: 0.5rem;
+}
+
+.dashboard__header--profile {
+  border-radius: 15px!important;
+}
+
+.script__upload__btn {
+    border: 1px solid #02183a!important;
+}
+
+.script__btn {
+    color: #02183a!important;
+}
+
+.script__movies__wrapper--inner {
+  padding: 1.5rem;
+  box-shadow: 6px 8px 8px #003a8933;
+  border-radius: 14px;
+  background: transparent linear-gradient(125deg, #02183a 0%, #1e3f71 100%) 0%
+    0% no-repeat padding-box;
+}
+
+.script__movies__top--section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1em 0;
+}

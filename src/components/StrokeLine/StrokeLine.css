@@ -1,0 +1,12 @@
+.stroke {
+    stroke-linecap: round;
+    stroke-width: 8;
+    stroke: #3F506C;
+  }
+  
+.stroke-1 {
+    stroke-linecap: round;
+    stroke-width: 8;
+    stroke: #FFFFFF;
+  }
+  

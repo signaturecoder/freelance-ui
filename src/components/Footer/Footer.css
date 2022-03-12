@@ -1,0 +1,31 @@
+.footer__description {
+    word-wrap: break-word;
+    font: normal normal normal 14px/21px Epilogue;
+  }
+  
+  .social__icon {
+    padding-right: 15px;
+    width: 21px;
+    height: 14px;
+  }
+  
+  .footer__container {
+    background-color: #ffffff;
+    height: 35vh;
+    color: var(--color-background);
+    padding: 1em 2em;
+    text-align: start;
+  }
+  
+  .footer__title {
+    height: 31px;
+    font: normal normal 600 30px/36px Epilogue;
+  }
+  
+  .footer__bottom--description {
+    display: flex;
+    justify-content: space-between;
+    color: #6b7c98;
+    padding-top: 0.5em;
+  }
+  

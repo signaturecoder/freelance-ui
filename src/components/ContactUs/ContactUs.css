@@ -1,0 +1,33 @@
+
+.contact__section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem 0;
+  }
+  
+  .contact__section--btn {
+    margin: 1em 0;
+  }
+  
+  .contact__section--bottom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .contact__section--bottom span {
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+    margin: 0 10px;
+  }
+  
+  .contact__section--bottom-icon {
+    width: 15px;
+  }
+  
+  .contact__section--bottom p {
+    padding-left: 8px;
+  }
+  
